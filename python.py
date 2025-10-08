@@ -1,6 +1,7 @@
-# this is a comment just for testing purposes
+# this is a comment just for testing purpose
 
 
+#Hannah first commit October 1st 
 #Hello World - Will
 #Valisa
 # My name is Emilye
